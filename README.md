@@ -43,9 +43,6 @@
   <img src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg" width="40" height="40"/> 
   <img src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
-</p>
 
 
 ### 🎲 Github Stats
