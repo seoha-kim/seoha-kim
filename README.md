@@ -7,14 +7,14 @@
 
 ### 🎓 Education
 
-- Research Intern of Visual Intelligence Lab at Yonsei University ```2021.07 ~ ```
-- Bachelor of Business Administration at Yonsei University ```2015.03 ~ 2021.02```
+- Research Intern of Visual Intelligence Lab at Yonsei University ```2021.7 ~ ```
+- Bachelor of Business Administration at Yonsei University ```2015.3 ~ 2021.2```
 
 
 ### 🧑🏻‍💻 Job Experiences
 
-- Machine Learning Engineer at Plask ```2021.03 ~ 2021.08```
-- Data Scientist Intern at Hyundai Mobis ```2019.09 ~ 2020.02```
+- Machine Learning Engineer at Plask ```2021.3 ~ 2021.8```
+- Data Scientist Intern at Hyundai Mobis ```2019.9 ~ 2020.2```
 
 
 ### 👑 Prizes
