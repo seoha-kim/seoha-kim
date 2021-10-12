@@ -47,8 +47,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> 
 
 
-### 📊 Github Stats
+### :octocat: Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha-kim&show_icons=true&theme=vue)
 
-### 📝 Top Languages
+### 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoha-kim)
