@@ -17,14 +17,14 @@
 - Data Scientist Intern at Hyundai Mobis ```2019.9 ~ 2020.2```
 
 
-### 👑 Prizes
+### 👑 Award history
 
 - AID Korea, Animal Datathon Korea 2021 1st place, Minister of Agriculture Food and Rural Affairs Award
 - Kaggle, Cassava Leaf Disease Classification Silver Medal
 - Seoul National University Hospital, Sleep AI Challenge 5th place
 
 
-### 🌈 Interests
+### 🌈 Academic Interests
 - Geometric Learning
 - Neural Radiance Fieds
 - Novel View Synthesis
@@ -39,7 +39,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" widt kmh="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
   <img src="https://www.kubeflow.org/docs/images/logos/Pipeline.png" width="40" height="40"/> 
   <img src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg" width="40" height="40"/> 
