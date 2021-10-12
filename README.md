@@ -1,6 +1,6 @@
-## ✨Hi, I am Seoha
+## ✨Seoha Kim✨
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseoha7.com)](mailto:kseoha7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseoha7.com)](mailto:kseoha7@gmail.com)
 [![Blog](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://learning-sarah.tistory.com/)](https://learning-sarah.tistory.com/) 
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://seoha-kim.github.io/)](https://seoha-kim.github.io/)
 
@@ -24,10 +24,11 @@
 
 
 ### 🌈 Interests
-- NeRF
-- Neural Rendering
-- 3D scene Reconstruction
+- Geometric Learning
+- Neural Radiance Fieds
 - Novel View Synthesis
+- 3D scene Reconstruction
+- Neural Rendering
 - Depth Estimation
 - Efficient Deep Learning
 - Machine Learning Pipelining
@@ -46,4 +47,4 @@
 
 
 ### 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha-kim&show_icons=true&theme=vue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha-kim&show_icons=true&theme=vue)
