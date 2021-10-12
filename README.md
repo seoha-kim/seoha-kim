@@ -45,5 +45,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> 
 
 
-### 🎲 Github Stats
+### 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha-kim&show_icons=true&theme=vue)
