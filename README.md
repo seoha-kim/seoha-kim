@@ -7,7 +7,7 @@
 
 ### 🎓 Education
 
-- Research Intern of Artificial Intelligence at Yonsei University ```2021.07 ~ ```
+- Research Intern of Visual Intelligence Lab at Yonsei University ```2021.07 ~ ```
 - Bachelor of Business Administration at Yonsei University ```2015.03 ~ 2021.02```
 
 
