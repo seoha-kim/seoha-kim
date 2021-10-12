@@ -1,4 +1,4 @@
-## ✨Seoha Kim
+## ✨Hi, I am Seoha
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseoha7.com)](mailto:kseoha7@gmail.com)
 [![Blog](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://learning-sarah.tistory.com/)](https://learning-sarah.tistory.com/) 
