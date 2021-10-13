@@ -24,7 +24,7 @@
 - Seoul National University Hospital, Sleep AI Challenge 5th place
 
 
-### 🌈 Academic Interests
+### 🌈 Interests
 - Geometric Learning
 - Neural Radiance Fieds
 - Novel View Synthesis
