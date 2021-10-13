@@ -43,7 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
   <img src="https://www.kubeflow.org/docs/images/logos/Pipeline.png" width="40" height="40"/> 
   <img src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg" width="40" height="40"/> 
-  <img src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> 
 
 
