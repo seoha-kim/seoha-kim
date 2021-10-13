@@ -43,7 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
   <img src="https://www.kubeflow.org/docs/images/logos/Pipeline.png" width="40" height="40"/> 
   <img src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" width="40" height="40"/>
+  
 
 
 ### :octocat: Github Stats
