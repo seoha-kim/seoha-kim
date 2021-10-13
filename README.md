@@ -50,6 +50,3 @@
 
 ### :octocat: Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha-kim&show_icons=true&theme=vue)
-
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoha-kim)
