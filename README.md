@@ -26,9 +26,9 @@
 
 ### 🌈 Academic Interests
 - Geometric Learning
-- Neural Radiance Fieds
+- Neural Radiance Fields
 - Novel View Synthesis
-- 3D scene Reconstruction
+- 3D Scene Reconstruction
 - Neural Rendering
 - Depth Estimation
 - Efficient Deep Learning
