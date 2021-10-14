@@ -20,7 +20,7 @@
 ### 👑 Award history
 
 - AID Korea, Animal Datathon Korea 2021 1st place, Minister of Agriculture Food and Rural Affairs Award
-- Kaggle, Cassava Leaf Disease Classification Silver Medal
+- Kaggle, Cassava Leaf Disease Classification Top 2% Silver Medal
 - Seoul National University Hospital, Sleep AI Challenge 5th place
 
 
