@@ -17,7 +17,7 @@
 - Data Scientist Intern at Hyundai Mobis ```2019.9 ~ 2020.2```
 
 
-### 👑 Award history
+### 👑 Award History
 
 - AID Korea, Animal Datathon Korea 2021 1st place, Minister of Agriculture Food and Rural Affairs Award
 - Kaggle, Cassava Leaf Disease Classification Top 2% Silver Medal
