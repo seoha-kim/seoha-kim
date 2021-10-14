@@ -11,7 +11,7 @@
 - Bachelor of Business Administration at Yonsei University ```2015.3 ~ 2021.2```
 
 
-### 🧑🏻‍💻 Job Experiences
+### 🧑🏻‍💻 Work Experience
 
 - Machine Learning Engineer at Plask ```2021.3 ~ 2021.8```
 - Data Scientist Intern at Hyundai Mobis ```2019.9 ~ 2020.2```
@@ -24,7 +24,7 @@
 - Seoul National University Hospital, Sleep AI Challenge 5th place
 
 
-### 🌈 Interests
+### 🌈 Academic Interests
 - Geometric Learning
 - Neural Radiance Fieds
 - Novel View Synthesis
