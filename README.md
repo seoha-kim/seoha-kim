@@ -23,16 +23,15 @@
 - Kaggle, Cassava Leaf Disease Classification Top 2% Silver Medal
 - Seoul National University Hospital, Sleep AI Challenge 5th place
 
-<!-- 
 ### 🌈 Academic Interests
 - Geometric Learning
 - Neural Radiance Fields
 - Novel View Synthesis
-- 3D Scene Reconstruction
+- 3D Scene Understanding
 - Neural Rendering
 - Depth Estimation
 - Efficient Deep Learning
-- Machine Learning Pipelining -->
+- Machine Learning Pipelining
 
 
 ### 🔧 Tech Stacks
