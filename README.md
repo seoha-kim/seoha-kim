@@ -7,31 +7,28 @@
 
 ### 🎓 Education
 
-- Research Intern of Visual Intelligence Lab at Yonsei University ```2021.7 ~ ```
-- Bachelor of Business Administration at Yonsei University ```2015.3 ~ 2021.2```
+- Research Intern of <b>Visual Intelligence Lab</b> at Yonsei University ```2021.7 ~ ```
+- Bachelor of <b>Business Administration</b> at Yonsei University ```2015.3 ~ 2021.2```
 
 
 ### 🧑🏻‍💻 Work Experience
 
-- Machine Learning Engineer at Plask ```2021.3 ~ 2021.8```
-- Data Scientist Intern at Hyundai Mobis ```2019.9 ~ 2020.2```
+- Machine Learning Engineer at <b>Plask</b> ```2021.3 ~ 2021.8```
+- Data Scientist Intern at <b>Hyundai Mobis</b> ```2019.9 ~ 2020.2```
 
 
 ### 👑 Award History
 
-- AID Korea, Animal Datathon Korea 2021 1st place, Minister of Agriculture Food and Rural Affairs Award
-- Kaggle, Cassava Leaf Disease Classification Top 2% Silver Medal
-- Seoul National University Hospital, Sleep AI Challenge 5th place
+- AID Korea, Animal Datathon Korea 2021 <b>1st place</b>
+- Kaggle, Cassava Leaf Disease Classification Top 2% <b>Silver Medal</b>
+- Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
 
 ### 🌈 Academic Interests
-- Geometric Learning
 - Neural Radiance Fields
-- Novel View Synthesis
+- Novel View/Time Synthesis
 - 3D Scene Understanding
 - Neural Rendering
 - Depth Estimation
-- Efficient Deep Learning
-- Machine Learning Pipelining
 
 
 ### 🔧 Tech Stacks
