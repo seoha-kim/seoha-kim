@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseoha7.com)](mailto:kseoha7@gmail.com)
 [![Blog](https://img.shields.io/badge/Tistory-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://learning-sarah.tistory.com/)](https://learning-sarah.tistory.com/) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-navy?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kseoha7)](https://www.linkedin.com/in/kseoha7) 
-[![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://tall-dinner-9ee.notion.site/Everyday-Learning-Sarah-f1c8599e57a9473eb59b95b19f64faad)](https://seoha-kim.github.io/)
+[![CV](https://img.shields.io/badge/Curriculum%20Vitae-informational?style=flat-square&logo=Latex&logoColor=white&link=https://tall-dinner-9ee.notion.site/Everyday-Learning-Sarah-f1c8599e57a9473eb59b95b19f64faad)](https://tall-dinner-9ee.notion.site/Everyday-Learning-Sarah-f1c8599e57a9473eb59b95b19f64faad)
 
 ### 🎓 Education
 
