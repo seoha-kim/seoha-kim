@@ -26,6 +26,7 @@
 ### 🌈 Academic Interests
 - 3D Representation
 - Neural Radiance Fields
+- Novel View/Time Synthesis
 - Neural Rendering
 
 ### 🔧 Tech Stacks
