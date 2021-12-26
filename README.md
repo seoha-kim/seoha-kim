@@ -24,8 +24,7 @@
 - Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
 
 ### 🌈 Academic Interests
-- 3D Representation
-- Neural Radiance Fields
+- 3D Representation (esp. NeRF)
 - Novel View/Time Synthesis
 - Neural Rendering
 
