@@ -7,7 +7,7 @@
 
 ### 🎓 Education
 
-- Research Intern of <b>Visual Intelligence Lab</b> at Yonsei University ```2021.7 ~ ```
+- Master of <b>Aritificial Intelligence</b> at Yonsei University ```2022.3 ~ 2024.2```
 - Bachelor of <b>Business Administration</b> at Yonsei University ```2015.3 ~ 2021.2```
 
 
@@ -24,10 +24,9 @@
 - Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
 
 ### 🌈 Academic Interests
+- 3D Representation
 - Neural Radiance Fields
-- Novel View/Time Synthesis
 - Neural Rendering
-- Depth Estimation
 
 ### 🔧 Tech Stacks
 <p align="left">
