@@ -23,10 +23,10 @@
 - Kaggle, Cassava Leaf Disease Classification Top 2% <b>Silver Medal</b>
 - Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
 
-### 🌈 Academic Interests
-- 3D Representation (esp. NeRF)
-- Novel View/Time Synthesis
-- Neural Rendering
+### 🌈 Tech Interests
+- Representation Learning
+- MLops (Esp. Kubeflow)
+- Kafka Streaming
 
 ### 🔧 Tech Stacks
 <p align="left">
