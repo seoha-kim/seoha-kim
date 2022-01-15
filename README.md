@@ -26,7 +26,6 @@
 ### 🌈 Tech Interests
 - Representation Learning
 - MLops (Esp. Kubeflow)
-- Kafka Streaming
 
 ### 🔧 Tech Stacks
 <p align="left">
