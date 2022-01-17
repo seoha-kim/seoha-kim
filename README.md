@@ -24,7 +24,8 @@
 - Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
 
 ### 🌈 Current Interests
-- Representation Learning
+- Knowledge Distillation
+- Self-Supervised Learning
 - MLops (Esp. Kubeflow)
 
 ### 🔧 Tech Stacks
