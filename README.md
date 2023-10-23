@@ -1,8 +1,5 @@
 ## Seoha Kim
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kseoha7.com)](mailto:kseoha7@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-navy?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kseoha7)](https://www.linkedin.com/in/kseoha7) 
-
 ### 🎓 Education
 
 - Master of <b>Artificial Intelligence</b> at Yonsei University ```2022.3 ~ 2024.2``` 
