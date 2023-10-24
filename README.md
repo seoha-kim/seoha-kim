@@ -2,7 +2,7 @@
 
 ### 🎓 Education
 
-- Master of <b>Artificial Intelligence</b> at Yonsei University ```2022.3 ~ 2024.2``` 
+- Master of <b>Artificial Intelligence</b> at Yonsei University ```2022.3 ~ ``` 
 - Bachelor of <b>Business Administration</b> at Yonsei University ```2015.3 ~ 2021.2```
 
 
