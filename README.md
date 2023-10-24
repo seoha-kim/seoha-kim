@@ -19,5 +19,5 @@
 - Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
 
 ### 🌈 Current Interests
-- 3D Representation (Esp. NeRF, Gaussian Splitting)
+- 3D Representation (Esp. NeRF, Gaussian Splatting)
 - Multimodal Learning
