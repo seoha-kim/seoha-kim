@@ -1,4 +1,5 @@
-## Seoha Kim
+## Seoha Kim ✿˘◡˘✿
+
 
 ### 🎓 Education
 
