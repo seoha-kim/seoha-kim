@@ -20,7 +20,7 @@
   ---
   
   **👩‍💼 Work Experience**
-  - Machine Learning Engineer at <b>Plask</b> ```2021.3 ~ 2021.8```
+  - AI engineer at <b>Plask</b> ```2021.3 ~ 2021.8```
   - Data Scientist Intern at <b>Hyundai Mobis</b> ```2019.9 ~ 2020.2```
   
   
