@@ -24,7 +24,7 @@
   - Data Scientist Intern at <b>Hyundai Mobis</b> ```2019.9 ~ 2020.2```
   
   
-  **👑 Award History**
+  **👑 Awards History**
   - AID Korea, Animal Datathon Korea 2021 <b>1st place</b>
   - Kaggle, Cassava Leaf Disease Classification Top 2% <b>Silver Medal</b>
   - Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
