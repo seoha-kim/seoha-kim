@@ -2,7 +2,7 @@
 
 
 **🌈 Current Interests**
-- 3D Representation (Esp. NeRF, Gaussian Splatting)
+- 4D Representation (Esp. NeRF, Gaussian Splatting)
 - Multimodal Learning
 
 
@@ -12,7 +12,7 @@
 
 
 **📝 Publication**
-- **Kim** et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, Arxiv
+- Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, Preprint
 
 
 <details><summary>And more information</summary>
