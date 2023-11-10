@@ -11,7 +11,7 @@
 - Bachelor of <b>Business Administration</b> at Yonsei University ```2015.3 ~ 2021.2```
 
 
-**📝 Publication**
+**📝 Publications**
 - Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, Preprint
 
 
