@@ -15,7 +15,7 @@
 - Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, Preprint
 
 
-<details><summary><a href="https://drive.google.com/file/d/1nm01BPjwPUuwCBix1XppOZ6PvRRj0cnL/view?usp=sharing">Resume</a> and more information</summary>
+<details><summary><a href="https://drive.google.com/file/d/1nHDfEvmmkkveDNdSh8AQCmvlTt1I0lNt/view?usp=sharing">Resume</a> and more information</summary>
   
   ---
   
