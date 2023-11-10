@@ -7,8 +7,8 @@
 
 
 **🎓 Education**
-- Master of <b>Artificial Intelligence</b> at Yonsei University ```2022.3 ~ ``` 
-- Bachelor of <b>Business Administration</b> at Yonsei University ```2015.3 ~ 2021.2```
+- M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022.3 ~ ``` 
+- B.A. in <b>Business Administration</b> at Yonsei University ```2015.3 ~ 2021.2```
 
 
 **📝 Publications**
