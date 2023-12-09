@@ -12,7 +12,7 @@
 
 
 **📝 Publications**
-- Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, Preprint
+- Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
 
 
 <details><summary><a href="https://drive.google.com/file/d/1CIvWuT8K8CImFbDRVTGRfeYv03N-iWzP/view?usp=sharing">CV</a> and more information</summary>
