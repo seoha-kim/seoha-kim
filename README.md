@@ -3,7 +3,7 @@
 
 **🌈 Current Interests**
 - 3D/4D Representation (Esp. NeRF, Gaussian Splatting)
-- Multimodal Learning
+# - Multimodal Learning
 
 
 **🎓 Education**
