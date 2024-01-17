@@ -6,7 +6,7 @@
 
 
 **🎓 Education**
-- M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - ``` 
+- M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
 - B.A. in <b>Business Administration</b> at Yonsei University ```2015 - 2021```
 
 
