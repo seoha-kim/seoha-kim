@@ -26,8 +26,3 @@
 - 10-2024-0043684, Method and apparatus for Dynamic Gaussian Splatting using embedding-based deformation
 - 10-2023-0105173, Method and apparatus for representing dynamic neural radiance fields from unsynchronized videos
 - 10-2020-0022362, Apparatus of diagnosing noise quality of motor
-
-
-# **👩‍💼 Work Experience**
-# - AI engineer at <b>Plask</b> ```2021.3 ~ 2021.8```
-# - Data Scientist Intern at <b>Hyundai Mobis</b> ```2019.9 ~ 2020.2```
