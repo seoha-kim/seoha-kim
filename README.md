@@ -16,10 +16,6 @@
 - Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
 
 
-<details><summary><a href="https://drive.google.com/file/d/1rw8I8bQk2ZqXHGCT2hmOHWbA1DUHUahV/view?usp=sharing">CV</a> and more information</summary>
-  
-  ---
-  
   **👩‍💼 Work Experience**
   - AI engineer at <b>Plask</b> ```2021.3 ~ 2021.8```
   - Data Scientist Intern at <b>Hyundai Mobis</b> ```2019.9 ~ 2020.2```
