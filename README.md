@@ -12,8 +12,8 @@
 
 
 **📝 Publications**
-- Bae et al., Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, Preprint 2024
-- Kim et al., Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
+- 1st author, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, Preprint 2024
+- 1st author, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
 
 
 **👑 Awards History**
