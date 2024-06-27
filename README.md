@@ -8,12 +8,12 @@
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
-- B.A. in <b>Business Administration</b> at Yonsei University ```2015 - 2021```
+- B.A. Double major in <b>Business Administration</b> and <b>Cognitive Science</b> at Yonsei University ```2015 - 2021```
 
 
 **📝 Publications**
-- 1st author, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, Preprint 2024
-- 1st author, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
+- <b>1st author</b>, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, Preprint 2024
+- <b>1st author</b>, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
 
 
 **💡 Patents**
@@ -23,6 +23,6 @@
 
 
 **👑 Awards History**
-- 1st place, Animal Datathon Korea 2021, AID Korea
-- Silver medal, Cassava Leaf Disease Classification, Kaggle
-- 5th place, Sleep AI Challenge, Seoul National University Hospital
+- <b>1st place</b>, Animal Datathon Korea 2021, AID Korea
+- <b>Silver medal</b>, Cassava Leaf Disease Classification, Kaggle
+- <b>5th place</b>, Sleep AI Challenge, Seoul National University Hospital
