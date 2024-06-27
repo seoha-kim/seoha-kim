@@ -18,6 +18,6 @@
 
 
 **👑 Awards History**
-- AID Korea, Animal Datathon Korea 2021 <b>1st place</b>
-- Kaggle, Cassava Leaf Disease Classification Top 2% <b>Silver Medal</b>
-- Seoul National University Hospital, Sleep AI Challenge <b>5th place</b>
+- 1st place, Animal Datathon Korea 2021, AID Korea
+- Silver Medal, Cassava Leaf Disease Classification Top 2%, Kaggle
+- 5th place, Sleep AI Challenge, Seoul National University Hospital
