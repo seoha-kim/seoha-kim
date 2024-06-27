@@ -6,11 +6,6 @@
 - Scene Understanding
 
 
-**🎓 Education**
-- M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
-- B.A. in <b>Business Administration</b> at Yonsei University ```2015 - 2021```
-
-
 **📝 Publications**
 - 1st author, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, Preprint 2024
 - 1st author, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
