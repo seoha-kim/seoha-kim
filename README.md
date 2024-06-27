@@ -1,5 +1,5 @@
 ## Seoha Kim ✿˘◡˘✿
-If you want to co-work with me, email me ❕ : )
+If you want to co-work with me, email me : ) ❕
 
 
 **🌈 Current Interests**
