@@ -2,9 +2,8 @@
 
 
 **🌈 Current Interests**
-- 3D/4D Representation : NeRF, Gaussian Splatting
-- Multimodal Learning : 3D LLM
-
+- 4D Scene Reconstrucion
+- Scene Understanding
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
