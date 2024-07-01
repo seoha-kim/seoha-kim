@@ -13,8 +13,8 @@ If you want to co-work with me, email me : )
 
 
 **📝 Publications**
-- <b>1st author</b>, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, ECCV 2024
-- <b>1st author</b>, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
+- <b>1st author</b>, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, <b>ECCV 2024</b>
+- <b>1st author</b>, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, <b>AAAI 2024</b>
 
 
 **💡 Patents**
