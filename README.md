@@ -4,6 +4,7 @@ If you want to co-work with me, email me : )
 
 **🌈 Current Interests**
 - 4D Scene Reconstrucion
+- Egocentric Video Reconstruction
 - Scene Understanding
 
 
