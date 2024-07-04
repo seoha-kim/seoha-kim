@@ -3,10 +3,8 @@ If you want to co-work with me, email me : )
 
 
 **🌈 Current Interests**
-- 4D Scene Reconstrucion
-- Egocentric Video Reconstruction
-- Scene Understanding
-
+- 4D Scene Reconstruction with Egocentric Video
+- 4D Action Localization
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
