@@ -3,7 +3,7 @@ If you want to co-work with me, email me : )
 
 
 **🌈 Current Interests**
-- 4D Scene Reconstruction with Egocentric Video
+- Scene Reconstruction with Egocentric Video
 - 4D Action Localization
 
 **🎓 Education**
