@@ -3,7 +3,7 @@ If you want to co-work with me, email me : )
 
 
 **🌈 Current Interests**
-- Scene Reconstruction with Egocentric Video
+- 4D Reconstruction with Egocentric Video
 - 4D Action Localization
 
 **🎓 Education**
@@ -22,7 +22,7 @@ If you want to co-work with me, email me : )
 - KR 10-2020-0022362, Apparatus of diagnosing noise quality of motor
 
 
-**👑 Awards History**
+**👑 Awards**
 - <b>1st place</b>, Animal Datathon Korea 2021, AID Korea
 - <b>Silver medal</b>, Cassava Leaf Disease Classification, Kaggle
 - <b>5th place</b>, Sleep AI Challenge, Seoul National University Hospital
