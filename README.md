@@ -2,7 +2,7 @@
 If you want to co-work with me, email me : )
 
 
-**🌈 Current Interests**
+**📌 Current Interests**
 - 4D Reconstruction with Egocentric Video
 - 4D Video Understanding
 
