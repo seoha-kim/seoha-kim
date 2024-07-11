@@ -4,7 +4,7 @@ If you want to co-work with me, email me : )
 
 **📌 Current Interests**
 - 4D Reconstruction with Egocentric Video
-- 4D Video Understanding from Scene Graph
+- 4D Action Understanding
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
