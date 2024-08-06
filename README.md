@@ -1,5 +1,6 @@
 ## Seoha Kim ✿˘◡˘✿
-If you want to coffee chat with me, email me : )
+Want to coffee chat with me ?
+email me : )
 
 
 **📌 Current Interests**
