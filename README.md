@@ -3,8 +3,8 @@ If you want to coffee chat with me, email me : )
 
 
 **📌 Current Interests**
-- 4D Reconstruction with Egocentric Video
 - 4D Action Understanding
+- 4D Reconstruction from Egocentric Video
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
