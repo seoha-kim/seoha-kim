@@ -1,9 +1,9 @@
 ## Seoha Kim ✿˘◡˘✿
-Want to coffee chat with me ?
-email me : )
+I am a Master's graduate from Korea with a strong interest in 3D Scene Understanding, Open Vocabulary 3D Scene Graphs, 4D Reconstruction, and Robot Perception. 
+My research focuses on advancing these areas to contribute to the development of intelligent systems capable of perceiving and interacting with complex 3D environments.
 
 
-**📌 Current Interests**
+**📌 Current Research**
 - 4D Action Understanding
 - 4D Reconstruction from Egocentric Video
 
