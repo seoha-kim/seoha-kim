@@ -13,5 +13,6 @@ email me : )
 
 
 **📝 Publications**
-- <b>1st author</b>, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, <b>ECCV 2024</b>
-- <b>1st author</b>, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, <b>AAAI 2024</b>
+- <b>1st Author</b>, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, <b>ECCV 2024</b>
+- <b>1st Author</b>, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, <b>AAAI 2024</b>
+- Co-Author, "Open3DS: Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space", Under-review
