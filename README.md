@@ -9,10 +9,10 @@ My research interests focus on developing intelligent systems capable of perceiv
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
-- B.A. Double major in <b>Business Administration</b> and <b>Cognitive Science</b> at Yonsei University ```2015 - 2021```
+- B.A. Double major in Business Administration and Cognitive Science at Yonsei University ```2015 - 2021```
 
 
 **📝 Publications**
-- <b>1st Author</b>, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, <b>ECCV 2024</b>
-- <b>1st Author</b>, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, <b>AAAI 2024</b>
+- 1st Author, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, ECCV 2024
+- 1st Author, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
 - Co-Author, Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space, Preprint
