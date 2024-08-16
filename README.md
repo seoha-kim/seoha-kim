@@ -1,5 +1,5 @@
 ## Seoha Kim ✿˘◡˘✿
-I am a Master's graduate from Korea with a strong interest in 3D Scene Understanding, 4D Reconstruction, and Robot Perception. 
+I am a Master's graduate with a strong interest in 3D Scene Understanding, 4D Reconstruction, and Robot Perception. 
 My research interests focus on developing intelligent systems capable of perceiving and interacting with complex 3D environments.
 
 
