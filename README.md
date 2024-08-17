@@ -5,7 +5,7 @@ My research interests focus on developing intelligent systems capable of perceiv
 
 **📌 Current Research**
 - 4D Action Understanding
-- 4D Scene Reconstruction from Egocentric Video
+- 4D Scene Reconstruction from Egocentric Videos
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
