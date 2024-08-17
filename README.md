@@ -1,11 +1,11 @@
 ## Seoha Kim ✿˘◡˘✿
-I am a Master's graduate with a strong interest in 3D Scene Understanding, 4D Reconstruction, and Robot Perception. <br>
+I am a Master's graduate with a strong interest in 3D Scene Understanding, 4D Scene Reconstruction, and Robot Perception. <br>
 My research interests focus on developing intelligent systems capable of perceiving and interacting with complex 3D environments.
 
 
 **📌 Current Research**
 - 4D Action Understanding
-- 4D Reconstruction from Egocentric Video
+- 4D Scene Reconstruction from Egocentric Video
 
 **🎓 Education**
 - M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
