@@ -1,5 +1,5 @@
 ## Seoha (Sara) Kim ✿˘◡˘✿
-Master graduate with a strong interest in 3D Scene Understanding, 3D Scene Graph, 4D Scene Reconstruction, and Robot Perception/Planning. <br>
+Master's graduate with a strong interest in 3D Scene Understanding, 3D Scene Graph, 4D Scene Reconstruction, and Robot Perception/Planning. <br>
 My research interests focus on developing intelligent systems capable of perceiving and interacting with dynamic 3D environments.
 
 
