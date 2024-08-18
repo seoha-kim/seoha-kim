@@ -8,7 +8,7 @@ My research interests focus on developing intelligent systems capable of perceiv
 - 4D Scene Reconstruction from Egocentric Video
 
 **🎓 Education**
-- M.S. in <b>Artificial Intelligence</b> at Yonsei University ```2022 - 2024``` 
+- M.S. in Artificial Intelligence at Yonsei University ```2022 - 2024``` 
 - B.A. Double major in Business Administration and Cognitive Science at Yonsei University ```2015 - 2021```
 
 
