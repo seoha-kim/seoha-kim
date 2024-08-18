@@ -15,4 +15,4 @@ My research interests focus on developing intelligent systems capable of perceiv
 **📝 Publications**
 - 1st Author, Per-Gaussian Embedding based Deformation for Deformable 3D Gaussian Splatting, ECCV 2024
 - 1st Author, Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos, AAAI 2024
-- Co-Author, Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space, Preprint
+- Co-Author, Rethinking Open-Vocabulary Segmentation of Radiance Fields in 3D Space, Under Review
