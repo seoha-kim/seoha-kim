@@ -5,7 +5,7 @@ My research focuses on developing intelligent systems capable of perceiving and 
 Coffee chats for research discussion are always welcome! ☕️
 
 
-**📌 Current Researchs**
+**📌 Current Research**
 - 4D Action Understanding
 - 4D Scene Reconstruction from Egocentric Video
 
