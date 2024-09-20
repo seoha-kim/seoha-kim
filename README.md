@@ -5,12 +5,9 @@ My research focuses on developing intelligent systems capable of perceiving and 
 Coffee chats for research discussion are always welcome! ☕️
 
 
-**📌 Current Research**
-- Human-Object Interaction classification with learned 4D Gaussians
-
-<!-- **🎓 Education**
+**🎓 Education**
 - M.S. in Artificial Intelligence at Yonsei University ```2022 - 2024``` 
-- B.A. Double major in Business Administration and Cognitive Science at Yonsei University ```2015 - 2021``` -->
+- B.A. Double major in Business Administration and Cognitive Science at Yonsei University ```2015 - 2021```
 
 
 **📝 Publications**
