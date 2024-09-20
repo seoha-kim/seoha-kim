@@ -6,8 +6,7 @@ Coffee chats for research discussion are always welcome! ☕️
 
 
 **📌 Current Research**
-- 4D Action Understanding
-- 4D Scene Reconstruction from Egocentric Video
+- Human-Object Interaction classification with learned 4D Gaussians
 
 <!-- **🎓 Education**
 - M.S. in Artificial Intelligence at Yonsei University ```2022 - 2024``` 
