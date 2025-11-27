@@ -1,5 +1,5 @@
 ## Seoha Kim 
-My research focuses on enabling AI to perceive and understand dynamic 3D environments, with interests in 3D reconstruction, vision-language models, and scene graphs.
+My research focuses on enabling AI to perceive and understand dynamic 3D environments, with interests in 4D scene understanding/reconstruction, vision-language models, multimodal large language models, and 3D scene graphs.
 
 ### 🎓 Education
 - PhD Student in Computing and Information Systems, University of Melbourne ```2026.2 ~```
