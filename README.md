@@ -1,5 +1,7 @@
 ## Seoha Kim 
-My research focuses on enabling AI to perceive and understand dynamic 3D environments, with interests in 4D scene understanding/reconstruction, vision-language models, multimodal large language models, and 3D scene graphs.
+I am a PhD student at the University of Melbourne, co-supervised by Prof. Taehyun Rhee and Prof. Kris Ehinger. My research aims to perceive and reason over dynamic 3D environments for embodied AI. My interests include functional 3D scene understanding, 4D human-object-interaction understanding, 4D MLLM, 3D/4D world model, and VLA. 
+
+Previously, I received my Master's degree from Yonsei University under the supervision of Prof. Youngjung Uh, where I focused on dynamic 3D reconstruction using 3D Gaussian Splatting and NeRF. I also collaborated with Dr.Taein Kwon at Meta Zurich on dynamic 3D hand reconstruction.
 
 ### 🎓 Education
 - PhD Student in Computing and Information Systems, University of Melbourne ```2026.2 ~```
