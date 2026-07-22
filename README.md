@@ -1,7 +1,7 @@
 ## Seoha Kim 
 I am a PhD student at the University of Melbourne, co-supervised by Prof. Taehyun Rhee and Prof. Kris Ehinger. <br>
 My research aims to perceive and reason over dynamic 3D environments for embodied AI. <br>
-My interests include functional 3D scene understanding, 4D human-object-interaction understanding, 4D MLLM, 3D/4D world model, and VLA. 
+My interests include functional 3D scene understanding, 4D human-object-interaction understanding, 4D MLLM, world model, and VLA. 
 
 ### 🎓 Education
 - PhD Student in Computing and Information Systems, University of Melbourne ```2026.2 ~```
