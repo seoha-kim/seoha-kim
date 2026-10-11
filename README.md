@@ -1,15 +1,15 @@
 ## Seoha Kim 
-I am a PhD student at the University of Melbourne, co-supervised by Prof. Taehyun Rhee and Prof. Kris Ehinger. <br>
+I am a Graduate Researcher at the University of Melbourne, co-supervised by Prof. Taehyun Rhee and Prof. Kris Ehinger. <br>
 My research aims to perceive and reason over dynamic 3D environments for embodied AI. <br>
-My interests include functional 3D scene understanding, 4D human-object-interaction understanding, 4D MLLM, world model, and VLA. 
+My interests include 4D human-object-interaction understanding, functional 3D scene understanding, world action model, and VLA.
 
 ### 🎓 Education
-- PhD Student in Computing and Information Systems, University of Melbourne ```2026.2 ~```
+- Graduate Researcher in Computing and Information Systems, University of Melbourne ```2026.2 ~ Present```
 - Master in Artificial Intelligence, Yonsei University  ```2022.3 ~ 2024.8```
 - Bachelor in Business Administration and Cognitive Science (Double Major), Yonsei University ```2015.3 ~ 2021.2```
 
 ### 💭 Research Collaboration
-- Meta Reality Labs/Microsoft Zurich ```2024.9 ~```
+- Meta Reality Labs/Microsoft Zurich ```2024.9 ~ ```
 - Electronics and Telecommunications Research Institute (ETRI) ```2023.1 ~ 2024.6```
 - LG Display ```2022.2 ~ 2022.12```
 
